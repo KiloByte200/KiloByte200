@@ -45,19 +45,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KiloByte200&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiloByte200&layout=compact"/>
-
-</div>
-
----
-
 ## 🚀 About
 
 - Software Engineering & Computing Security student
